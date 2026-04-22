@@ -17,7 +17,7 @@
 
 ### 📌 Portfolio & Resume
 
-- 👨‍💻 [Personal Website](https://tyresejmay.github.io/myportfolio/)  
+- 👨‍💻 [Personal Website](https://tyresejmay.github.io/Portfolio/)  
 - 📄 [Resume](https://drive.google.com/file/d/1KOwDU1T9RrOZZfuFHkqt-PxMCPlhBl1K/view?usp=sharing)  
 - 📫 Reach me at **17tyresemay@gmail.com**
 
